@@ -87,5 +87,5 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 ## Contato
 
 Para dúvidas ou parcerias, entre em contato:  
-seuemail@exemplo.com
+nataliarodrinss@gmail.com
 
